@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-upload-server-example",
+  "version": "1.0.0",
+  "description": "A simple node.js multipart form upload server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "android",
+    "upload",
+    "service",
+    "nodejs",
+    "form",
+    "upload",
+    "server"
+  ],
+  "author": "Aleksandar Gotev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "googleapis": "^39.2.0",
+    "multer": "^1.4.2",
+    "node-geocoder": "^3.28.0",
+    "passport": "^0.3.2",
+    "passport-http": "^0.3.0",
+    "spread_sheet": "^2.2.1",
+    "xlsx": "^0.17.5"
+  }
+}
